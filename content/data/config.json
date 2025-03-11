@@ -27,6 +27,14 @@
         "socialLinks": [
             {
                 "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "linkedin",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "altText": "Linkedin",
                 "label": "Linkedin",
                 "url": "https://www.linkedin.com/in/waqarkhk/",
